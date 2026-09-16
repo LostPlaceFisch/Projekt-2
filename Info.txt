@@ -1,0 +1,1 @@
+Öffne die Eingabeaufforderung (CMD) im selben Ordner wie ec.exe und gib ec --info ein, um weitere Informationen zu erhalten.
